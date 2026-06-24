@@ -3,3 +3,5 @@ ethnicity audit/
 results/archive/
 FairCV_gender_audit.ipynb
 FairCV_scoring.ipynb
+data/FairCVdb.npy
+data/FairCVdb_they.npy
